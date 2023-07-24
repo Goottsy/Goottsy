@@ -20,6 +20,13 @@ I also have various hobbies such as a **music producer**, **graphic designer** a
 | Soarinng | ParkerGemu | ANFR | Manucraft | Gaidenplay  | Daniel_Zoom |
 
 
+### **Events I Have Worked On**
+| <img src="https://pbs.twimg.com/media/F1INn59WcAIN602?format=jpg&name=medium" width='100px' /> |  <img src="https://pbs.twimg.com/media/FrHsGGIWIAgJ3Ry?format=jpg" width='100px' /> | <img src="https://pbs.twimg.com/media/FdOH6o3XgAMd1Q8?format=jpg" width='100px' /> | <img src="https://github.com/Goottsy/Goottsy/assets/77463623/1ccbb12c-c42a-415a-939c-aaaef8e33930" width='100px' /> | <img src="https://pbs.twimg.com/media/FwS-LX7XgAIBFZJ?format=jpg&name=medium" width='100px' /> | <img src="https://pbs.twimg.com/media/FXQu5SGXoAAOK6b?format=jpg&name=large" width='100px' /> |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| VELADACRAFT | CORRETEA2 | Mexcraft | Radarcraft  | Reto Regio  | Hormigeo |
+
+
+
 # **Hola! Yo soy Goottsy <3**
 
 Soy un desarrollador de 20 años de edad, actualmente un **desarrollador y configurador de eventos de Minecraft** para diferentes streamers y creadores de contenido.
@@ -41,5 +48,8 @@ También tengo varios pasatiempos, como ser **productor musical**, **diseñador 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Soarinng | ParkerGemu | ANFR | Manucraft | Gaidenplay  | Daniel_Zoom |
 
-
+### **Eventos En Los Que He Trabajado**
+| <img src="https://pbs.twimg.com/media/F1INn59WcAIN602?format=jpg&name=medium" width='100px' /> |  <img src="https://pbs.twimg.com/media/FrHsGGIWIAgJ3Ry?format=jpg" width='100px' /> | <img src="https://pbs.twimg.com/media/FdOH6o3XgAMd1Q8?format=jpg" width='100px' /> | <img src="https://github.com/Goottsy/Goottsy/assets/77463623/1ccbb12c-c42a-415a-939c-aaaef8e33930" width='100px' /> | <img src="https://pbs.twimg.com/media/FwS-LX7XgAIBFZJ?format=jpg&name=medium" width='100px' /> | <img src="https://pbs.twimg.com/media/FXQu5SGXoAAOK6b?format=jpg&name=large" width='100px' /> |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| VELADACRAFT | CORRETEA2 | Mexcraft | Radarcraft  | Reto Regio  | Hormigeo |
 
