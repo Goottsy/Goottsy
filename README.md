@@ -8,7 +8,7 @@ I also have various hobbies such as a **music producer**, **graphic designer** a
 
 ### **Developer Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,idea,visualstudio,react,js,c,cs,cpp,html,css,gradle&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,idea,visualstudio,react,tauri,nodejs,mysql,c,cs,cpp,html,css,js&perline=10)](https://skillicons.dev)
 
 ### **Graphic Designer Skills**
 
